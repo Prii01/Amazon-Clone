@@ -1,2 +1,4 @@
 # Amazon-Clone
-Creating Amazon front page using HTML and CSS. 
+<h2>Creating Amazon front page using</h2>
+<li>HTML</li>
+<li>CSS</li>
